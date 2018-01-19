@@ -1,1 +1,1 @@
-# city_builder_lib_a
+These are some structures for https://github.com/Sokomine/citybuilder/ which is a mod for Minetest.
